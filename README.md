@@ -1,0 +1,1 @@
+# mott_mosquitto_local_hos-configration
